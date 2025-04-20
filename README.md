@@ -1,3 +1,3 @@
 # Analisis-Numerico-2025-1
 
-## Tarea 2
+# Tarea 2
